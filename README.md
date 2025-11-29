@@ -74,7 +74,7 @@ If you prefer to build and run the executable manually:
 
 ***
 
-## 🌐 Lichess Integration
+## 🌐 Lichess Integration, 123
 
 
 * **Lichess Profile:** *[Link will be added here upon deployment]*
